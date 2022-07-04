@@ -1,8 +1,9 @@
 ### Hi there 👋
+Iam Queen. A software developer who loves taking part in user interface / user experience (UI/UX) research and human centered design thereby using my skills to contribute to producing viable products across different projects.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Queenlwiindi)](https://github.com/Queenlwiindi/github-readme-stats)
 
 <!--
-**Queenlwiindi/queenlwiindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
