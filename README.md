@@ -1,7 +1,10 @@
-### Hi there 👋
-Iam Queen. A software developer who loves taking part in user interface / user experience (UI/UX) research and human centered design thereby using my skills to contribute to producing viable products across different projects.
+### Hi! Iam Queen 👋
+A software developer who loves taking part in user interface / user experience (UI/UX) research and human centered design thereby using my skills to contribute to producing viable products across different projects.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Queenlwiindi)](https://github.com/Queenlwiindi/github-readme-stats)
+### GitHub stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Queenlwiindi&theme=default)](https://git.io/streak-stats)
+
+### Reach me here:
 
 <!--
 Here are some ideas to get you started:
