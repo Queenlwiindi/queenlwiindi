@@ -7,7 +7,7 @@
 </p>
 
 ### GitHub stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Queenlwiindi&theme=default)](https://git.io/streak-stats)
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Queenlwiindi&" alt="QueenLwiindi" /></p>
 
 ### Languages and tools
 
