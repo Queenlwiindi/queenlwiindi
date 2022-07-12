@@ -1,15 +1,16 @@
-<h3 align="center"> Hi! Iam Queen 👋
+<h3 align="center"> Hi! Iam Queen :woman_technologist:
 <hr>
 
-[![Twitter Badge](https://img.shields.io/badge/-@QueenMutinta-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/QueenMutinta)](https://twitter.com/QueenMutinta) [![Linkedin Badge](https://img.shields.io/badge/-QueenLwiindi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/queen-lwiindi-15b2b01a1/)](https://www.linkedin.com/in/queen-lwiindi-15b2b01a1/)
- </h3>
+[![Twitter Badge](https://img.shields.io/badge/-@QueenMutinta-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/QueenMutinta)](https://twitter.com/QueenMutinta) [![Linkedin Badge](https://img.shields.io/badge/-QueenLwiindi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/queen-lwiindi-15b2b01a1/)](https://www.linkedin.com/in/queen-lwiindi-15b2b01a1/) 
+
+</h3>
 <p align="center"> A software developer who loves taking part in user interface / user experience (UI/UX) research and human centered design thereby using my skills to contribute to producing viable products across different projects.
 </p>
 
-### GitHub stats
+### :fire: GitHub stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Queenlwiindi&" alt="QueenLwiindi" /></p>
 
-### Languages and tools
+### :hammer_and_wrench: Languages and tools
 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
