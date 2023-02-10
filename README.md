@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@QueenMutinta-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/QueenMutinta)](https://twitter.com/QueenMutinta) [![Linkedin Badge](https://img.shields.io/badge/-QueenLwiindi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/queen-lwiindi-15b2b01a1/)](https://www.linkedin.com/in/queen-lwiindi-15b2b01a1/) 
 
 </h3>
-<p> A software developer who loves taking part in user interface / user experience (UI/UX) research and human centered design thereby using my skills to contribute to producing viable products across different projects. I love anything that involes music, visiting new places, trying new food and all kinds of art.
+<p> I am a software developer and human-centred design enthusiast who is passionate about creating digital solutions that are both innovative and easy to use. My experience includes developing software applications for a variety of clients, as well as working with user experience and user interface design to create effective and intuitive user experiences. I have a keen eye for detail and strive to create user experiences that are both enjoyable and productive. I am also experienced in the implementation of Agile development processes, which allows for the integration of customer feedback into the development process. My goal is to create robust, engaging, and user-centred software solutions that meet the demands of modern users. I love anything that involes music, visiting new places, trying new food and all kinds of art.
 </p>
 
 ### :fire: GitHub stats
