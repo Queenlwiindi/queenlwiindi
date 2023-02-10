@@ -21,7 +21,7 @@
 <img alt="Figma" src="https://img.shields.io/badge/Figma-FF7262.svg?logo=figma&logoColor=white">
 
 ### :orange_book: Currently learning
-NextJS :fire: :dancer:
+Flutter :fire: :dancer:
 
 <!-- <p align="center">
   <samp>
